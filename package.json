@@ -1,0 +1,17 @@
+{
+  "name": "frontend-2013-10-17",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "stylus-font-awesome": "~0.0.1",
+    "stylus": "~0.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/stylus/bin/stylus -w ./stylus/style.styl -o ./css -u ./node_modules/stylus-font-awesome"
+  },
+  "author": "Po-Ying Chen <poying.me@gmail.com>",
+  "license": "MIT"
+}
