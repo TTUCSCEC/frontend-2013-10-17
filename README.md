@@ -20,6 +20,11 @@ TTUCSC Frontend 第一堂
 ### step2
 
     $ git checkout -f step2
+    $ npm install
+
+Compile stylus to css
+
+    $ npm start
 
 ### step3
 
