@@ -11,7 +11,7 @@ TTUCSC Frontend 第一堂
 
 * step1 - HTML 結構
 * step2 - CSS 樣式（使用 Stylus，但說明的時候只會講 CSS 部份）
-* step3 - JavaScript，讓 Todo list 可以增加/刪除項目
+* step3 - JavaScript，讓 Todo list 可以被搜尋
 
 ### step1
 
